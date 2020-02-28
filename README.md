@@ -1,6 +1,6 @@
 Doqure is a flutter app to easily book an appointment with doctor.
 
-##Getting Started
+## Getting Started
 This project is a starting point for the doqure Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
@@ -8,7 +8,7 @@ A few resources to get you started if this is your first Flutter project:
 -> Run test app
 -> Now that you have the environment ready!, you're good to go by forking the repo.
 
-##Contribution
+## Contribution
 If you want to contribute to the project. Please follow the below instructions carefully.
 Step-1  Get a fresh pull
 Step-2  Create a new branch from development branch.
